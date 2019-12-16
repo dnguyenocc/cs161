@@ -1,4 +1,4 @@
-# cs161
+# cs161 Topics
 ### Intro:
 * Threat models and attacker motivations
 * User behavior
