@@ -11,7 +11,7 @@
 * Strong as the weakest link, don't rely on security through obscurity, Shannon's Maxim/Kerckoff's Principle
 * Fail-safe defaults, don't reinvent the wheel, go beyond the bare minimum
 * Design in security from the start, proactively study attacks
-### [Memory Safety](dnguyenocc/cs161/blob/master/MemorySafety.md)
+### [Memory Safety](MemorySafety.md)
 * TOCTTOU
 * Buffer overflow, signed/unsigned numbers, fencepost/off-by-one errors
 * Format string vulnerabilities, use after free
